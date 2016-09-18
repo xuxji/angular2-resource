@@ -10,10 +10,10 @@ Angular2 资源整理
 
 # 项目脚手架
 - Angular2 Seed 官方
-https://github.com/angular/angular2-seed
+> https://github.com/angular/angular2-seed
 
 - Angular2 Seed
-https://github.com/mgechev/angular2-seed
+> https://github.com/mgechev/angular2-seed
 Angular2 Seed 提供了一个快速、灵活和可扩展的项目开发启动环境，基于Gulp的构建
 - 
 
